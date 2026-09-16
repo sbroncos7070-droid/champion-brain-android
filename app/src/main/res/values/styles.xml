@@ -1,8 +1,7 @@
 <resources>
-    <style name="Theme.ChampionBrain" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.ChampionBrain" parent="android:style/Theme.Material.NoActionBar">
         <item name="colorPrimary">#F7C948</item>
-        <item name="colorPrimaryVariant">#DCA900</item>
-        <item name="colorOnPrimary">#111827</item>
+        <item name="android:colorAccent">#F7C948</item>
         <item name="android:navigationBarColor">#070B15</item>
         <item name="android:statusBarColor">#070B15</item>
         <item name="android:fontFamily">sans</item>
