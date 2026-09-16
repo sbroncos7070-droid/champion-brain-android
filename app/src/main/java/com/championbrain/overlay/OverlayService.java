@@ -4,6 +4,7 @@ import android.app.*;
 import android.content.*;
 import android.graphics.*;
 import android.graphics.drawable.GradientDrawable;
+import android.hardware.display.VirtualDisplay;
 import android.media.Image;
 import android.media.ImageReader;
 import android.media.projection.*;
